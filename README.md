@@ -22,3 +22,7 @@ int main() {
 ```
 
 OUTPUT:
+
+![Program
+Output](https://github.com/user-attachments/assets/8f3e3a87-ef23-4aa1-8c9d-9dd5293fde6e)
+
